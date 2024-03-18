@@ -47,51 +47,51 @@ Execute the program using runserver command.
 
 <tr align="center">
 <th bgcolor="BLUE">Monday</th>
-<th bgcolor="Orange">SANM</th>
-<th bgcolor="Orange">ES</th>
+<th bgcolor="Orange">DS</th>
+<th bgcolor="Orange">BEE</th>
 <th bgcolor="Orange" rowspan="6" align="center">LUNCH BREAK</th>
-<th bgcolor="Orange">FREE SLOT</th>
-<th bgcolor="Orange">PAQM</th>
+<th bgcolor="Orange">FWAD</th>
+<th bgcolor="Orange">C</th>
 </tr>
 
 <tr align="center">
-<th bgcolor="BLUE">Tuesday</th>
-<th bgcolor="Orange">FWAD</th>
-<th bgcolor="Orange">TOC</th>
+<th bgcolor="BLUE">TuesdaY</th>
 <th bgcolor="Orange">FREE SLOT</th>
-<th bgcolor="Orange">COM ENG</th>
+<th bgcolor="Orange">FWAD</th>
+<th bgcolor="Orange">FREE SLOT</th>
+<th bgcolor="Orange">PMC</th>
 </tr>
 
 <tr align="center">
 <th bgcolor="BLUE">Wednesday</th>
-<th bgcolor="Orange">SANM</th>
-<th bgcolor="Orange">SE</th>
+<th bgcolor="Orange">FWAD</th>
 <th bgcolor="Orange">FREE SLOT</th>
-<th bgcolor="Orange">COM ENG</th>
+<th bgcolor="Orange">DBMS</th>
+<th bgcolor="Orange">CN</th>
 </tr>
 
 <tr align="center">
 <th bgcolor="BLUE">Thrusday</th>
-<th bgcolor="Orange">ES</th>
-<th bgcolor="Orange">TOC</th>
+<th bgcolor="Orange">DIP</th>
 <th bgcolor="Orange">FREE SLOT</th>
-<th bgcolor="Orange">FWAD</th>
+<th bgcolor="Orange">BEE</th>
+<th bgcolor="Orange">FREE SLOT</th>
 </tr>
 
 <tr align="center">
 <th bgcolor="BLUE">Friday</th>
+<th bgcolor="Orange">DIP</th>
+<th bgcolor="Orange">C</th>
+<th bgcolor="Orange">CN</th>
 <th bgcolor="Orange">FREE SLOT</th>
-<th bgcolor="Orange">SNALT</th>
-<th bgcolor="Orange">FREE SLOT</th>
-<th bgcolor="Orange">PAQM</th>
 </tr>
 
 <tr align="center">
 <th bgcolor="BLUE">Saturday</th>
+<th bgcolor="Orange">DS</th>
+<th bgcolor="Orange">PMC</th>
+<th bgcolor="Orange">DBMS</th>
 <th bgcolor="Orange">FREE SLOT</th>
-<th bgcolor="Orange">FREE SLOT</th>
-<th bgcolor="Orange">SE</th>
-<th bgcolor="Orange">FWAD</th>
 </tr>
 
 </table>
@@ -112,53 +112,56 @@ Execute the program using runserver command.
 
 <tr>
 <td align="center">2.</td>
-<td align="center">19EN101</td>
-<td>Communicate English (COM ENG)</td>
+<td align="center">19EE305</td>
+<td>Basic Electric And Electronic Measurement(BEE)</td>
 </tr>
 
 <tr>
 <td align="center">3.</td>
-<td align="center">19CS407</td>
-<td>Theory of Computation (TOC)</td>
+<td align="center">19CS406</td>
+<td>Computer Networks(CN)</td>
 </tr>
 
 <tr>
 <td align="center">4.</td>
-<td align="center">19AI521</td>
-<td>Expert System (ES) </td>
+<td align="center">19EE309</td>
+<td>Programming Micro ControLler(PMC) </td>
 </tr>
 
 <tr>
 <td align="center">5.</td>
-<td align="center">19MA211</td>
-<td>Statistics and Numerical Methods(SANM)</td>
+<td align="center">19AI403</td>
+<td>Intoduction To Data Science(DS)</td>
 </tr>
 
 <tr>
 <td align="center">6.</td>
-<td align="center">19MA222</td>
-<td>Probability and Queueing Models(PAQM)</td>
+<td align="center">19AI304</td>
+<td>Fundamentals Of C Programming(C)</td>
 </tr>
 
 <tr>
 <td align="center">7.</td>
-<td align="center">19CS408</td>
-<td>Software Engineering (SE)</td>
+<td align="center">19CS404</td>
+<td>Database Management System and its applicaton(DBMS)</td>
 </tr>
 
 <tr>
 <td align="center">8.</td>
-<td align="center">19EY703</td>
-<td>System of Numerical and Logical Terminologies (SNALT)</td>
+<td align="center">19CS406</td>
+<td>Computer Networks(CN)</td>
+</tr>
+<tr>
+    <td align="center">9.</td>
+    <td align="'center">19AI406</td>
+    <td>Digital Image Processing Techniques(DIP)</td>
 </tr>
 </table>
 </body>
 </html>
 ```
-
-## OUTPUT
-
-![Screenshot (6)](https://github.com/pragachellapillai/slot/assets/148254952/a610c65f-ad53-4465-8e9f-bccd9b715510)
+OUTPUT:
+![WhatsApp Image 2024-03-18 at 22 29 31_e9de99ac](https://github.com/pragachellapillai/slot/assets/148254952/69dd11b3-8126-4af8-8525-7ebe21cdf2b6)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
